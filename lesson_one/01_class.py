@@ -61,3 +61,9 @@ s1 = Student("Upendra", 21)
 # print(s1.age)
 
 # GITHUB
+
+
+# manual virtual environment creation
+# python -m venv venv
+# activate virtual environment
+# source venv/bin/activate
